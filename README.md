@@ -3,3 +3,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jegali&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jegali&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jegali&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jegali&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jegali&theme=default)
