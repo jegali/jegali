@@ -5,3 +5,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jegali&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jegali&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jegali&theme=default)
+
+## Latest Project
+At the moment, I am setting up a hackable webshop for penetration testing trainings. It will be available as a docker image
