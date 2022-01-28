@@ -7,4 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jegali&theme=default)
 
 ## Latest Project
-At the moment, I am setting up a hackable webshop for penetration testing trainings. It will be available as a docker image
+At the moment, I am setting up a hackable webshop for penetration testing trainings. It will be deployed as a docker image - and I will report how I built it.
+
+## Other Projects
+![Project: Cloudberry Cluster](https://github.com/jegali/Cloudberry-Cluster)
