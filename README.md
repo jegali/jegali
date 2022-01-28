@@ -22,6 +22,9 @@ To monitor the health status of my Raspberry Pi and later, my Raspberry Pi clust
 [Project: Dockerized Webshop Environment](https://github.com/jegali/docker-nginx-mysql-php-phpmyadmin) <br/>
 I tried to build my own docker image for my hackable webshop. This is the first try where I build a multiple container environment using docker-compose to set up a workspace with NGinx as a web server, mariaDB as database System, PHP as programming language and an phpMyAdmin administration interface. The webshop source code is not part of this repository.<br/><br/>
 
+[Project: Monolithic Webshop Environment](https://github.com/jegali/docker-monolithic-lamp) <br/>
+This is my monolithic docker image for the hackable webshop with a detailed explanation how to set up a container fro scratch. <br/><br/>
+
 [Project: mandelPi](https://github.com/jegali/MandelPi) <br/>
 Being an addict to the Mandelbrot set since my early age, I decided to do a rewrite in Python using techniques of parallel computing to utilize more threads and cores.<br/><br/>
 
