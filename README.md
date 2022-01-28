@@ -10,4 +10,5 @@
 At the moment, I am setting up a hackable webshop for penetration testing trainings. It will be deployed as a docker image - and I will report how I built it.
 
 ## Other Projects
-[Project: Cloudberry Cluster](https://github.com/jegali/Cloudberry-Cluster) In this repository, I show how I built my raspberry Kubernetes cluster - including a small hardware project that deals with creating a front panel with LED and on/off switches so that the cluster can be conveniently started and shut down. 
+[Project: Cloudberry Cluster](https://github.com/jegali/Cloudberry-Cluster) <br/>
+In this repository, I show how I built my raspberry Kubernetes cluster - including a small hardware project that deals with creating a front panel with LED and on/off switches so that the cluster can be conveniently started and shut down. 
