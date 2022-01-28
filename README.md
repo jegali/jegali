@@ -13,6 +13,9 @@ At the moment, I am setting up a hackable webshop for penetration testing traini
 [Project: Cloudberry Cluster](https://github.com/jegali/Cloudberry-Cluster) <br/>
 In this repository, I show how I built my Raspberry Kubernetes cluster - including a small hardware project that deals with creating a front panel with LED and on/off switches so that the cluster can be conveniently started and shut down. <br/><br/>
 
+[Project: Life with Pi](https://github.com/jegali/CloudberryPi) <br/>
+During the Udacity scholarship "Cloud native architecture and development" I talked about my experiences with Raspberry Pi and how I took the long road from a single Raspberry to use it as a Honeypot, build my first 4-node-cluster, set up Docker and Kubernetes and ended up with a 8-node-cluster running a redesigned version of my hackable webshop as microservices.<br/><br/>
+
 [Project: HealthPi](https://github.com/jegali/HealthPi) <br/>
 To monitor the health status of my Raspberry Pi and later, my Raspberry Pi cluster, I decided to write a centralized monitoring solution for CPU utilization, Temperature, Memory ussage and hard disk usage. A client on the Raspberry collects the data and log it to my Ubuntu Server for evaluation and reporting. Using Dash and Python, the data is visualized and served via a Flask application. <br/><br/>
 
