@@ -27,3 +27,6 @@ Being an addict to the Mandelbrot set since my early age, I decided to do a rewr
 
 [Project: Networks](https://github.com/jegali/networks) <br/>
 During the Udacity scholarship "Cloud native architecture and development" I was asked to give a talk on networks, protocols and infrastructure. These are the slides I used to entertain people from three different time zones (US, Europe and India) for four hours. Cheers!<br/><br/>
+
+[Project: 60 Days of Udacity - DataScience Challenge](https://github.com/jegali/DataScience)
+I am happy that I was able to be part of the Data Track scholarship 2020. In this training, we kept a diary as participants: for 60 days, we noted what we did and learned and recorded our progress. This is the repository to my diary, including the exercises and solutions to them.
