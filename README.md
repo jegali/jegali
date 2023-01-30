@@ -7,9 +7,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jegali&theme=default)
 
 ## Latest Project
-At the moment, I am setting up a hackable webshop for penetration testing trainings. It will be deployed as a docker image - and I will report how I built it.
+At the moment, I create an emulation for the 6502 processor. To get a better understanding of the CPU, I also implement a disassembling and assembling unit as well as a graphica CPU simulation. After that, I try to emulate a complete computer. I owned an Apple ][ computer in my teenage days, so this will be the primary target.
 
 ## Other Projects
+[Project: CPyU](https://github.com/jegali/CPyu) <br/>
+This is the 6502 emulation project.
+
 [Project: Cloudberry Cluster](https://github.com/jegali/Cloudberry-Cluster) <br/>
 In this repository, I show how I built my Raspberry Kubernetes cluster - including a small hardware project that deals with creating a front panel with LED and on/off switches so that the cluster can be conveniently started and shut down. <br/><br/>
 
@@ -26,7 +29,7 @@ I tried to build my own docker image for my hackable webshop. This is the first 
 This is my monolithic docker image for the hackable webshop with a detailed explanation how to set up a container fro scratch. <br/><br/>
 
 [Project: mandelPi](https://github.com/jegali/MandelPi) <br/>
-Being an addict to the Mandelbrot set since my early age, I decided to do a rewrite in Python using techniques of parallel computing to utilize more threads and cores.<br/><br/>
+Being an addict to the Mandelbrot set since my early age, I decided to do a rewrite in Python using techniques of parallel computing to utilize more threads and cores. The latest addition to this project is the usage of the taichi library and a speed comparison between a Microsoft Surface Pro 9 and a Macbook Air M2.<br/><br/>
 
 [Project: Networks](https://github.com/jegali/networks) <br/>
 During the Udacity scholarship "Cloud native architecture and development" I was asked to give a talk on networks, protocols and infrastructure. These are the slides I used to entertain people from three different time zones (US, Europe and India) for four hours. Cheers!<br/><br/>
