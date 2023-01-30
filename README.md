@@ -11,7 +11,7 @@ At the moment, I create an emulation for the 6502 processor. To get a better und
 
 ## Other Projects
 [Project: CPyU](https://github.com/jegali/CPyu) <br/>
-This is the 6502 emulation project.
+This is the 6502 emulation project.<br/><br/>
 
 [Project: Cloudberry Cluster](https://github.com/jegali/Cloudberry-Cluster) <br/>
 In this repository, I show how I built my Raspberry Kubernetes cluster - including a small hardware project that deals with creating a front panel with LED and on/off switches so that the cluster can be conveniently started and shut down. <br/><br/>
